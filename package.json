@@ -1,0 +1,16 @@
+{
+  "name": "renovate-config-hebilicious",
+  "version": "0.0.0",
+  "description": "Renovate Bot config by Hebilicious",
+  "license": "MIT",
+  "repository": "Hebilicious/renovate-config",
+  "scripts": {
+    "test": "renovate-config-validator ./default.json"
+  },
+  "files": [
+    "default.json"
+  ],
+  "devDependencies": {
+    "renovate": "^35.79.1"
+  }
+}
